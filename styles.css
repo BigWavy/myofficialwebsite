@@ -1,0 +1,36 @@
+
+.nav-link {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+
+
+.nav-link {
+    color: white !important;
+}
+
+body {
+    height: 5000px;
+   margin-bottom: 0%;
+}
+.navvv {
+    padding-top: 0px;
+    padding-bottom: 0%;
+}
+
+.carousel-inner {
+    width: 100%;
+    max-height: 3000px !important;
+}
+
+.carousel-item {
+    bottom: 250px;
+    height: 1500px;
+}
+.brandname {
+    color: white;
+    font-family: 'Noto Serif JP', serif;
+    margin-top: 10px;
+
+}
